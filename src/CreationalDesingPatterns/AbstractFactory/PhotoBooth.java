@@ -1,4 +1,4 @@
-package AbstractFactory;
+package CreationalDesingPatterns.AbstractFactory;
 
 public class PhotoBooth {
     public BlurFilter blurf;

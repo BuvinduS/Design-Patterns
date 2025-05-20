@@ -1,4 +1,4 @@
-package AbstractFactory;
+package CreationalDesingPatterns.AbstractFactory;
 
 public class BlurFilter3X3 implements BlurFilter{
     @Override

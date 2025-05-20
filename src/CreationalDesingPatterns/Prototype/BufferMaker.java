@@ -1,4 +1,4 @@
-package Prototype;
+package CreationalDesingPatterns.Prototype;
 
 // Class with a factory method
 public class BufferMaker {

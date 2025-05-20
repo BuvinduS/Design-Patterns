@@ -1,4 +1,4 @@
-package Prototype;
+package CreationalDesingPatterns.Prototype;
 
 public class ImageRGB extends ImageBuffer{
     @Override

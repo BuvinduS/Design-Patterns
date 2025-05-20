@@ -1,4 +1,4 @@
-package Singleton;
+package CreationalDesingPatterns.Singleton;
 
 public class LogTester {
     public static void main(String[] args) {

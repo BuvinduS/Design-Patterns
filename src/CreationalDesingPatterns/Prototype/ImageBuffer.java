@@ -1,4 +1,4 @@
-package Prototype;
+package CreationalDesingPatterns.Prototype;
 //The "Abstract" prototype
 abstract class ImageBuffer implements Cloneable{
     public ImageBuffer clone() throws CloneNotSupportedException{

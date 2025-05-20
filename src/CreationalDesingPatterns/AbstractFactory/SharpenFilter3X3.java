@@ -1,4 +1,4 @@
-package AbstractFactory;
+package CreationalDesingPatterns.AbstractFactory;
 
 public class SharpenFilter3X3 implements SharpenFilter{
     @Override

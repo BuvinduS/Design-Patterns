@@ -1,4 +1,4 @@
-package Builder;
+package CreationalDesingPatterns.Builder;
 
 
 class BitRegister{
@@ -144,7 +144,7 @@ class SARADC{
         return sr;
     }
 }
-// This is a Concrete ADC Builder for SAR-type ADC
+// This is a Concrete ADC CreationalDesingPatterns.Builder for SAR-type ADC
 // It builds the complex SARADC object using many products/objects
 class SARADCBuilder implements ADCBuilder{
     private SARADC sar;
@@ -162,7 +162,7 @@ class SARADCBuilder implements ADCBuilder{
 }
 
 
-// This is the Abstract ADC Builder interface
+// This is the Abstract ADC CreationalDesingPatterns.Builder interface
 interface ADCBuilder{
     public void build(AnalogValue input);
     public BitRegister output();
@@ -170,7 +170,7 @@ interface ADCBuilder{
 
 
 // This is the Client Class(Director) interacting with a Concrete
-// Builder(SARADCBuilder) that is implementing the Abstract Builder(ADCBuilder) interface
+// CreationalDesingPatterns.Builder(SARADCBuilder) that is implementing the Abstract CreationalDesingPatterns.Builder(ADCBuilder) interface
 public class TemperatureMonitor{
     public static void main(String[] args) {
         AnalogValue lm57 = new AnalogValue("[analog input signal]");

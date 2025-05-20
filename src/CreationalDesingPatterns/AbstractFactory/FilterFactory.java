@@ -1,4 +1,4 @@
-package AbstractFactory;
+package CreationalDesingPatterns.AbstractFactory;
 
 /*
 * This is the Abstract Factory that the clients would use

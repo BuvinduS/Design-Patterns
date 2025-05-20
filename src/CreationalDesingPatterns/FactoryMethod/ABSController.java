@@ -1,4 +1,4 @@
-package FactoryMethod;
+package CreationalDesingPatterns.FactoryMethod;
 
 abstract class ABSController {
     private ABSSensor abss;

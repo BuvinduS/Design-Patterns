@@ -1,4 +1,4 @@
-package AbstractFactory;
+package CreationalDesingPatterns.AbstractFactory;
 /*
 * Concrete implementation of the Abstract Factory
 */

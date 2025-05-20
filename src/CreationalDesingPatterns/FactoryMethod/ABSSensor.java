@@ -1,4 +1,4 @@
-package FactoryMethod;
+package CreationalDesingPatterns.FactoryMethod;
 
 // Abstract/Generic ABS Sensor module
 abstract class ABSSensor {
