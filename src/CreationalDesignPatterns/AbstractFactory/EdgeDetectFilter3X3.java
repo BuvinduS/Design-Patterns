@@ -1,4 +1,4 @@
-package CreationalDesingPatterns.AbstractFactory;
+package CreationalDesignPatterns.AbstractFactory;
 
 public class EdgeDetectFilter3X3 implements EdgeDetectFilter{
     @Override

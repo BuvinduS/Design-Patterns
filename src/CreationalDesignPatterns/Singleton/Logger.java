@@ -1,4 +1,4 @@
-package CreationalDesingPatterns.Singleton;
+package CreationalDesignPatterns.Singleton;
 
 public class Logger { // This is the singleton object
     // we define a static shareable object as a constant

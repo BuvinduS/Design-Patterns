@@ -1,4 +1,4 @@
-package CreationalDesingPatterns.FactoryMethod;
+package CreationalDesignPatterns.FactoryMethod;
 
 public class BenzABSController {
     public static void main(String[] args) {

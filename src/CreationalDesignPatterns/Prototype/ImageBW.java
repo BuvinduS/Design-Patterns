@@ -1,4 +1,4 @@
-package CreationalDesingPatterns.Prototype;
+package CreationalDesignPatterns.Prototype;
 
 public class ImageBW extends ImageBuffer{
     @Override

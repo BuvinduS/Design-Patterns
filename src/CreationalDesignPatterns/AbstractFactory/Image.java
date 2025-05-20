@@ -1,4 +1,4 @@
-package CreationalDesingPatterns.AbstractFactory;
+package CreationalDesignPatterns.AbstractFactory;
 
 public class Image {
     public Image(){}

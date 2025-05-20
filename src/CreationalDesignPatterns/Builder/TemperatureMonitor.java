@@ -1,4 +1,4 @@
-package CreationalDesingPatterns.Builder;
+package CreationalDesignPatterns.Builder;
 
 
 class BitRegister{

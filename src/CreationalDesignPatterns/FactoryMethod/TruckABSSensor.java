@@ -1,4 +1,4 @@
-package CreationalDesingPatterns.FactoryMethod;
+package CreationalDesignPatterns.FactoryMethod;
 
 public class TruckABSSensor extends ABSSensor{
     @Override
